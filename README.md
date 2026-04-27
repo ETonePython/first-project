@@ -1,5 +1,5 @@
 # first-project
-
+I am editing the file as told on the lab.
 ## Орчин бэлдэх
 
 ```sh
